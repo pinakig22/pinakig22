@@ -1,6 +1,7 @@
 - 👋 Hi, I’m Pinaki
 - 👀 I’m interested in Cloud, and stuff around Cloud.
 - 🌱 I’m currently learning Terraform
+- 🥇 AWS Solutions Architect Certified - Professional
 - 📫 Reach me at pinakighosh.rhce@gmail.com
 
 <!---
