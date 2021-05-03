@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @pinakig22
+- 👋 Hi, I’m Pinaki
 - 👀 I’m interested in Cloud, and stuff around Cloud.
 - 🌱 I’m currently learning Terraform
 - 📫 Reach me at pinakighosh.rhce@gmail.com
