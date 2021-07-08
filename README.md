@@ -38,12 +38,6 @@
 <br />
 <br />
 
-<details>
-  <summary>:zap: Recent GitHub Activity</summary>
-<!--START_SECTION:activity-->
-
-</details>  
-  
 [linkedin]: https://www.linkedin.com/in/pinakig/
 [instagram]: https://www.instagram.com/_findingfocuz_/
 
