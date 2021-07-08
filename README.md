@@ -3,7 +3,7 @@
 - 👀 I’m interested in Cloud, and stuff around Cloud.
 - 🌱 I’m currently learning Terraform
 - 🥇 AWS Solutions Architect Certified - Professional
-- 🥅 2021 Goals: Learn as much as I can
+- 🥅 2021 Goals: Learn as much as I can and work on my health
 - ⚡ Fun fact: I love travel :globe_with_meridians: and take images :framed_picture:
 - 📫 Reach me at pinakighosh.rhce@gmail.com
 
