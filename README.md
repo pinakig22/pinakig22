@@ -6,10 +6,10 @@
 - :trophy: AWS Solutions Architect Certified - Professional
 - :medal_sports: RedHat Certified System Administrator
 - :1st_place_medal: 3x AWS Associate Certified
-- 🥅 2021 Goals: Learn as much as I can and work on my health
+- 🥅 2021 Goals: Learn as much as I can and get fit
 - Fav Sport: :soccer: Soccer (Football)
 - Fav Team: Chelsea FC 
-- ⚡ Fun fact: I love travelling :globe_with_meridians: and take images :framed_picture:
+- ⚡ Fun fact: I love travelling :globe_with_meridians: and taking images :framed_picture:
 - 📫 Reach me at pinakighosh.rhce@gmail.com
 
 ### Connect with me:
