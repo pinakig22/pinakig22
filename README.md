@@ -1,6 +1,7 @@
 ### 👋 Hi there, I'm Pinaki ✨
 
-- 👀 I’m interested in Cloud, and stuff around Cloud.
+## I'm a Technical Operations Engineer (Cloud)
+- 👀 I’m interested in Cloud (AWS), and stuff around Cloud.
 - 🌱 I’m currently learning Terraform
 - 🥇 AWS Solutions Architect Certified - Professional
 - 🥅 2021 Goals: Learn as much as I can and work on my health
