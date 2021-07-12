@@ -14,7 +14,7 @@
 
 <br />
 
-### Languages and Tools:
+## Languages and Tools:
 <img align="left" alt="AWS" width="35px" src="https://user-images.githubusercontent.com/36029504/124854749-70dcc500-dfc5-11eb-9fe1-0abf6cd1f717.png">
 <!---<img align="left" alt="Terraform" width="35px" src="https://user-images.githubusercontent.com/36029504/124854852-9f5aa000-dfc5-11eb-8f74-6f0b94a8dd21.png"> -->
 <img align="left" alt="Terraform" width="35px" src="https://user-images.githubusercontent.com/36029504/124857459-fe221880-dfc9-11eb-8b4b-a178562128b1.png">
@@ -31,6 +31,14 @@
 
 <br />
 <br />
+
+
+## Connect with me
+<!--:mailbox: Reach me out!:-->
+[<img align="left" alt="pinaki | Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="pinaki | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
+<br />  
 <br />
 
 ## Coding stats
@@ -40,12 +48,7 @@
 [linkedin]: https://www.linkedin.com/in/pinakig/
 [instagram]: https://www.instagram.com/_findingfocuz_/
 
-<br />  
 
-### Connect with me
-<!--:mailbox: Reach me out!:-->
-[<img align="left" alt="pinaki | Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="pinaki | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <!---
 pinakig22/pinakig22 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
