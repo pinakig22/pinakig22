@@ -11,6 +11,10 @@
 - ⚡ Fun fact: I love travelling :globe_with_meridians: and taking images :framed_picture:
 - 📫 Reach me at pinakighosh.rhce@gmail.com
 
+### Connect with me
+<!--:mailbox: Reach me out!:-->
+[<img align="left" alt="pinaki | Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="pinaki | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
 
@@ -28,15 +32,6 @@
 <img align="left" alt="Terminal" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 <img align="left" alt="Readhat" width="35px" src="https://user-images.githubusercontent.com/36029504/124856707-a636e200-dfc8-11eb-9544-6a6294c152ac.png">
 
-
-<br />
-<br />
-
-
-## Connect with me
-<!--:mailbox: Reach me out!:-->
-[<img align="left" alt="pinaki | Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="pinaki | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />  
 <br />
