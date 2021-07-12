@@ -11,11 +11,6 @@
 - ⚡ Fun fact: I love travelling :globe_with_meridians: and taking images :framed_picture:
 - 📫 Reach me at pinakighosh.rhce@gmail.com
 
-### Connect with me
-<!--:mailbox: Reach me out!:-->
-[<img align="left" alt="pinaki | Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="pinaki | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
 
 <br />
 
@@ -38,8 +33,19 @@
 <br />
 <br />
 
+## Coding stats
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 [linkedin]: https://www.linkedin.com/in/pinakig/
 [instagram]: https://www.instagram.com/_findingfocuz_/
+
+<br />  
+
+### Connect with me
+<!--:mailbox: Reach me out!:-->
+[<img align="left" alt="pinaki | Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="pinaki | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <!---
 pinakig22/pinakig22 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
