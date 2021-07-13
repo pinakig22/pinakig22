@@ -36,7 +36,7 @@
 <br />  
 <br />
 
-## Coding stats
+### Coding stats
 <!--START_SECTION:waka-->
 ```text
 Markdown    1 hr 8 mins     ████████████████████░░░░░   80.19 % 
