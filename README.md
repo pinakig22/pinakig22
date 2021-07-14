@@ -39,10 +39,10 @@
 ### Coding stats
 <!--START_SECTION:waka-->
 ```text
-Markdown    1 hr 8 mins     ████████████████████░░░░░   80.19 % 
-YAML        9 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   11.26 % 
-Terraform   4 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.79 % 
-Other       2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.75 % 
+Markdown    2 hrs 36 mins   ██████████████████████▒░░   89.99 % 
+YAML        9 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.53 % 
+Terraform   5 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.13 % 
+Other       2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.36 % 
 ```
 <!--END_SECTION:waka-->
 
