@@ -1,4 +1,4 @@
-## Hi, I'm Pinaki <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
+## Hi there <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi"> I'm Pinaki 👨‍💻
 <!--## Principal Operations Engineer (Cloud)-->
 - 👀 I’m interested in Cloud (AWS), and stuff around Cloud.
 - 🌱 I’m currently learning Terraform
@@ -13,9 +13,19 @@
 
 ### Connect with me
 <!--:mailbox: Reach me out!:-->
+<!--
 [<img align="left" alt="pinaki | Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="pinaki | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+:-->
+<!--Different Version:-->
+  <a href="https://www.linkedin.com/in/pinakig/">
+    <img alt="pinaki" src="https://img.shields.io/badge/pinaki-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>&nbsp;&nbsp;
+  <a href="https://www.instagram.com/_findingfocuz_/">
+    <img src="https://img.shields.io/badge/findingfocuz-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />        
+  </a>&nbsp;&nbsp;
 
+<br />
 <br />
 
 ## Languages and Tools:
