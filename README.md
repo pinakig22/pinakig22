@@ -47,7 +47,7 @@
 <br />
 <br />
 
-### Coding stats
+### &#x1f4c8; Coding stats
 <!--START_SECTION:waka-->
 ```text
 Markdown    9 hrs 29 mins   █████████████████▓░░░░░░░   71.14 % 
@@ -61,7 +61,12 @@ HTML        1 min           ░░░░░░░░░░░░░░░░░�
 [linkedin]: https://www.linkedin.com/in/pinakig/
 [instagram]: https://www.instagram.com/_findingfocuz_/
 
-
+<!---Multiple option to check for Coding Stats
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/pinakig22/github-readme-stats)
+<a href="https://github.com/pinakig22">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pinakig22&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
+</a>
+--->
 
 <!---
 pinakig22/pinakig22 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
