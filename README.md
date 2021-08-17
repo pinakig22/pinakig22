@@ -50,9 +50,9 @@
 ### &#x1f4c8; Coding stats
 <!--START_SECTION:waka-->
 ```text
-Terraform   6 mins          █████████░░░░░░░░░░░░░░░░   36.65 % 
-Markdown    5 mins          ████████░░░░░░░░░░░░░░░░░   32.02 % 
-JSON        4 mins          ███████▒░░░░░░░░░░░░░░░░░   28.88 % 
+Terraform   1 hr 51 mins    █████████████▒░░░░░░░░░░░   52.85 % 
+Markdown    1 hr 34 mins    ███████████░░░░░░░░░░░░░░   44.61 % 
+JSON        4 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.25 % 
 ```
 <!--END_SECTION:waka-->
 
