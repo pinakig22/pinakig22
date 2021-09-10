@@ -1,11 +1,11 @@
 ## Hi there <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi"> I'm Pinaki 👨‍💻
 <!--## Principal Operations Engineer (Cloud)-->
 - 👀 I’m interested in Cloud ☁ (AWS), and stuff around Cloud.
-- 🌱 I’m currently learning Terraform
+- 🌱 I’m currently preparing for **ITIL 4 Foundation** & **CKA** (_Certified Kubernetes Administrator_) certifications
 - :trophy: AWS Solutions Architect Certified - Professional
 - :medal_sports: RedHat Certified System Administrator
 - :1st_place_medal: 3x AWS Associate Certified
-- :1st_place_medal: Terraform Associate Certified
+- :medal_sports: HashiCorp Certified Terraform Associate
 - 🥅 2021 Goals: Learn as much as I can and get fit
 - Fav Sport: :soccer: Soccer (Football)
 - Fav Team: Chelsea FC 
