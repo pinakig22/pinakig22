@@ -5,6 +5,7 @@
 - :trophy: AWS Solutions Architect Certified - Professional
 - :medal_sports: RedHat Certified System Administrator
 - :1st_place_medal: 3x AWS Associate Certified
+- :1st_place_medal: Terraform Associate Certified
 - 🥅 2021 Goals: Learn as much as I can and get fit
 - Fav Sport: :soccer: Soccer (Football)
 - Fav Team: Chelsea FC 
