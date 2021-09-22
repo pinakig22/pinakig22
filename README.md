@@ -51,9 +51,9 @@
 ### &#x1f4c8; Coding stats
 <!--START_SECTION:waka-->
 ```text
-Markdown   7 hrs 46 mins   ███████████████████▒░░░░░   77.00 % 
-YAML       2 hrs 15 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.32 % 
-JSON       4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.67 % 
+Markdown   8 hrs 52 mins   ███████████████████▓░░░░░   79.21 % 
+YAML       2 hrs 15 mins   █████░░░░░░░░░░░░░░░░░░░░   20.17 % 
+JSON       4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.61 % 
 ```
 <!--END_SECTION:waka-->
 
