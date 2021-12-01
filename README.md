@@ -51,7 +51,7 @@
 ### &#x1f4c8; Coding stats
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+Markdown   53 mins         █████████████████████████   99.62 % 
 ```
 <!--END_SECTION:waka-->
 
