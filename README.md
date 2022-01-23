@@ -52,11 +52,7 @@
 ### &#x1f4c8; Coding stats
 <!--START_SECTION:waka-->
 ```text
-Markdown                   11 hrs 22 mins  █████████████████████▒░░░   84.90 % 
-YAML                       1 hr 7 mins     ██░░░░░░░░░░░░░░░░░░░░░░░   08.34 % 
-Terraform                  41 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.13 % 
-Other                      11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.37 % 
-Nginx configuration file   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 % 
+Markdown   11 hrs 45 mins  █████████████████████████   100.00 % 
 ```
 <!--END_SECTION:waka-->
 
