@@ -7,7 +7,7 @@
 - :medal_sports: RedHat Certified System Administrator
 - :1st_place_medal: 3x AWS Associate Certified
 - :medal_sports: HashiCorp Certified Terraform Associate
-- 🥅 2021 Goals: Learn as much as I can and get fit
+- 🥅 2022 Goals: Learn as much as I can and get fit
 - Fav Sport: :soccer: Soccer (Football)
 - Fav Team: Chelsea FC 
 - ⚡ Fun fact: I love travelling :globe_with_meridians: and taking images :framed_picture:
