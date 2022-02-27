@@ -50,11 +50,13 @@
 
 ### &#x1f4c8; Coding stats
 <!--START_SECTION:waka-->
+
 ```text
-Markdown     9 hrs 34 mins   ███████████████████████▓░   94.03 % 
-Terraform    33 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.51 % 
-Git Config   2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.46 % 
+Markdown     9 hrs 34 mins   ███████████████████████▓░   94.03 %
+Terraform    33 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.51 %
+Git Config   2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.46 %
 ```
+
 <!--END_SECTION:waka-->
 
 [linkedin]: https://www.linkedin.com/in/pinakig/
