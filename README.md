@@ -52,9 +52,10 @@
 <!--START_SECTION:waka-->
 
 ```text
-Markdown     10 hrs 23 mins  ███████████████████████▓░   94.48 %
-Terraform    33 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.10 %
-Git Config   2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.43 %
+Markdown     11 hrs 17 mins  ███████████████████████░░   91.93 %
+Terraform    56 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.67 %
+Git Config   2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.38 %
+INI          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
 ```
 
 <!--END_SECTION:waka-->
