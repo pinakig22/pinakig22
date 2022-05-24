@@ -48,9 +48,11 @@
 <br />
 <br />
 
+<!---
 ### &#x1f4c8; Coding stats
-<!--START_SECTION:waka-->
 
+<!--START_SECTION:waka-->
+## Waka Time Coding Stats
 ```text
 Terraform      2 hrs 25 mins   ███████████████▒░░░░░░░░░   61.00 %
 YAML           44 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.74 %
@@ -60,7 +62,11 @@ Groovy         8 mins          █░░░░░░░░░░░░░░░�
 Bash           6 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.92 %
 ```
 
-<!--END_SECTION:waka-->
+<!--END_SECTION:waka--> 
+
+## GitHub Stats Card
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pinakig22&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pinakig22)](https://github.com/anuraghazra/github-readme-stats)
 
 [linkedin]: https://www.linkedin.com/in/pinakig/
 [instagram]: https://www.instagram.com/_findingfocuz_/
