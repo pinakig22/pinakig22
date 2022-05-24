@@ -52,7 +52,7 @@
 ### &#x1f4c8; Coding stats
 
 <!--START_SECTION:waka-->
-## Waka Time Coding Stats
+
 ```text
 Terraform      2 hrs 25 mins   ███████████████▒░░░░░░░░░   61.00 %
 YAML           44 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.74 %
