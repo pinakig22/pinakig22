@@ -54,12 +54,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-YAML        39 mins         ██████▒░░░░░░░░░░░░░░░░░░   24.83 %
-Jinja2      34 mins         █████▒░░░░░░░░░░░░░░░░░░░   21.81 %
-Terraform   32 mins         █████▒░░░░░░░░░░░░░░░░░░░   20.85 %
-INI         29 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.62 %
-Text        18 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.68 %
-textmate    3 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.05 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka--> 
