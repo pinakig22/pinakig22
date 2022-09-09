@@ -54,7 +54,12 @@
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+YAML             57 mins         ██████████████▓░░░░░░░░░░   58.74 %
+Terraform        13 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.98 %
+Text             10 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.87 %
+GitIgnore file   8 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   08.48 %
+Jinja2           7 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.72 %
+Java             0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 %
 ```
 
 <!--END_SECTION:waka--> 
