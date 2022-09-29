@@ -54,12 +54,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-YAML        1 hr 24 mins    ███████████░░░░░░░░░░░░░░   44.41 %
-Text        50 mins         ██████▓░░░░░░░░░░░░░░░░░░   26.75 %
-Jinja2      28 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   15.32 %
-Terraform   9 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.11 %
-INI         7 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.74 %
-Bash        6 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.25 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka--> 
