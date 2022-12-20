@@ -54,7 +54,8 @@
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+Jinja2      9 mins          ██████████████████████▓░░   91.14 %
+Terraform   0 secs          ██▒░░░░░░░░░░░░░░░░░░░░░░   08.86 %
 ```
 
 <!--END_SECTION:waka--> 
