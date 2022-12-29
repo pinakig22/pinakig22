@@ -54,10 +54,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-Terraform   5 mins          ██████████████████▓░░░░░░   74.19 %
-JSON        1 min           ██████▒░░░░░░░░░░░░░░░░░░   24.88 %
-YAML        0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.75 %
-Config      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka--> 
