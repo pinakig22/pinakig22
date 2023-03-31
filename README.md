@@ -54,7 +54,8 @@
 <!--START_SECTION:waka-->
 
 ```text
-Terraform   0 secs          █████████████████████████   100.00 %
+Terraform   4 mins          ████████████▓░░░░░░░░░░░░   50.90 %
+Groovy      4 mins          ████████████▒░░░░░░░░░░░░   49.10 %
 ```
 
 <!--END_SECTION:waka--> 
