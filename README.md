@@ -53,7 +53,7 @@
 
 <!--START_SECTION:waka-->
 
-```text
+```txt
 Markdown       2 hrs 23 mins   ████████████████▒░░░░░░░░   65.14 %
 Terraform      1 hr            ███████░░░░░░░░░░░░░░░░░░   27.68 %
 Shell Script   5 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.34 %
