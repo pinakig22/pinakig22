@@ -58,8 +58,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Other    3 mins          ███████████████████▓░░░░░   79.05 %
-Groovy   0 secs          █████▒░░░░░░░░░░░░░░░░░░░   20.95 %
+Groovy   0 secs          █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka--> 
