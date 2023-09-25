@@ -58,9 +58,8 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Markdown    0 secs          ████████████▓░░░░░░░░░░░░   50.37 %
-Terraform   0 secs          ███████░░░░░░░░░░░░░░░░░░   27.56 %
-Groovy      0 secs          █████▓░░░░░░░░░░░░░░░░░░░   22.07 %
+Terraform   0 secs          ██████████████░░░░░░░░░░░   55.53 %
+Groovy      0 secs          ███████████░░░░░░░░░░░░░░   44.47 %
 ```
 
 <!--END_SECTION:waka--> 
