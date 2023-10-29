@@ -58,11 +58,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Markdown       1 hr 50 mins    ███████████████████████▓░   94.30 %
-Bash           2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.39 %
-Groovy         2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.94 %
-Shell Script   1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.06 %
-Assembly       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka--> 
