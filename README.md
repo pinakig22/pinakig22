@@ -58,9 +58,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-YAML     5 mins          ████████████▒░░░░░░░░░░░░   49.03 %
-Text     5 mins          ████████████░░░░░░░░░░░░░   48.57 %
-Groovy   0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.40 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka--> 
