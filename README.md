@@ -58,11 +58,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Text        7 mins          ████████▓░░░░░░░░░░░░░░░░   34.49 %
-HCL         6 mins          ███████▓░░░░░░░░░░░░░░░░░   30.49 %
-Jinja2      4 mins          █████░░░░░░░░░░░░░░░░░░░░   19.90 %
-Terraform   3 mins          ███▓░░░░░░░░░░░░░░░░░░░░░   14.60 %
-Groovy      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.49 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka--> 
