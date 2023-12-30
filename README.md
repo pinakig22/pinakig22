@@ -58,8 +58,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Terraform   13 mins         █████████████████████░░░░   84.14 %
-Groovy      2 mins          ████░░░░░░░░░░░░░░░░░░░░░   15.86 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka--> 
