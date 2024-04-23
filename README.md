@@ -58,11 +58,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Config   11 mins         ████████████████▒░░░░░░░░   65.94 %
-Text     3 mins          █████░░░░░░░░░░░░░░░░░░░░   20.23 %
-Jinja2   1 min           ██▒░░░░░░░░░░░░░░░░░░░░░░   09.55 %
-Groovy   0 secs          █░░░░░░░░░░░░░░░░░░░░░░░░   03.56 %
-YAML     0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.72 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka--> 
