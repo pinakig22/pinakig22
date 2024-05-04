@@ -58,9 +58,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Markdown    6 hrs 19 mins   ███████████████████▒░░░░░   77.81 %
-Other       1 hr 30 mins    ████▓░░░░░░░░░░░░░░░░░░░░   18.67 %
-Terraform   17 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.52 %
+Markdown    6 hrs 5 mins    ████████████████████████░   95.38 %
+Terraform   17 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.49 %
+Other       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 %
 ```
 
 <!--END_SECTION:waka--> 
