@@ -58,8 +58,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-JSON     7 mins          █████████████████████████   99.85 %
-Jinja2   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 %
+Java Properties   5 mins          █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka--> 
