@@ -58,7 +58,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Java Properties   5 mins          █████████████████████████   100.00 %
+Terraform         1 hr 23 mins    ███████████████████▒░░░░░   77.54 %
+Markdown          9 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.19 %
+HCL               7 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.52 %
+Java Properties   5 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.39 %
+Other             0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.73 %
 ```
 
 <!--END_SECTION:waka--> 
