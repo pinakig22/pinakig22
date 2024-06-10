@@ -58,10 +58,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Text     7 mins          █████████████████░░░░░░░░   68.05 %
-HCL      1 min           ███▓░░░░░░░░░░░░░░░░░░░░░   14.46 %
-Groovy   1 min           ███░░░░░░░░░░░░░░░░░░░░░░   12.40 %
-JSON     0 secs          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.09 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka--> 
