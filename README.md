@@ -58,8 +58,8 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Terraform   2 mins          ████████████████████▓░░░░   83.29 %
-Bash        0 secs          ████▒░░░░░░░░░░░░░░░░░░░░   16.71 %
+Bash        0 secs          ████████████████████████▒   97.71 %
+Terraform   0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.29 %
 ```
 
 <!--END_SECTION:waka--> 
