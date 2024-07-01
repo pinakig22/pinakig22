@@ -58,8 +58,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Text     5 mins          ███████████████████████▓░   94.56 %
-Jinja2   0 secs          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.44 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka--> 
