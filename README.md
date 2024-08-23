@@ -9,10 +9,9 @@
 - :1st_place_medal: 3x AWS Associate Certified
 - :medal_sports: HashiCorp Certified Terraform Associate
 - 🥅 2024 Goals:
-  - Google Associate Cloud Engineer Certification - April 2024
-  - Certified Kubernetes Administrator - Aug 2024
-  - Find new job  
-  - Recertify AWS SA Associate (by July End)
+  - New Job
+  - Recertify AWS SA Associate
+  - Recertify HashiCorp Terraform
 - Fav Sport: :soccer: Soccer (Football)
 - Fav Team: Chelsea FC 
 - ⚡ Fun fact: I love travelling :globe_with_meridians: and taking images :framed_picture:
