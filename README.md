@@ -8,11 +8,11 @@
 - :medal_sports: RedHat Certified System Administrator
 - :1st_place_medal: 3x AWS Associate Certified
 - :medal_sports: HashiCorp Certified Terraform Associate
-- 🥅 2023 Goals:
+- 🥅 2024 Goals:
+  - Google Associate Cloud Engineer Certification - April 2024
+  - Certified Kubernetes Administrator - Aug 2024
+  - Find new job  
   - Recertify AWS SA Associate (by July End)
-  - Prarallel study for Certified Kubernetes Administrator Certification exam.
-  - Study for Google Cloud Engineer - Associate (post AWS SA Associate)
-  - Find new job
 - Fav Sport: :soccer: Soccer (Football)
 - Fav Team: Chelsea FC 
 - ⚡ Fun fact: I love travelling :globe_with_meridians: and taking images :framed_picture:
@@ -60,11 +60,8 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Markdown       1 hr 53 mins    ███████████▓░░░░░░░░░░░░░   46.19 %
-Jinja2         39 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.06 %
-YAML           26 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.94 %
-Text           25 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.17 %
-Terraform      16 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.83 %
+Markdown   2 hrs 23 mins   ███████████████████████▓░   94.19 %
+Other      8 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.81 %
 ```
 
 <!--END_SECTION:waka--> 
