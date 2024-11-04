@@ -58,11 +58,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Jinja2         0 secs          ███████▓░░░░░░░░░░░░░░░░░   30.92 %
-YAML           0 secs          █████▓░░░░░░░░░░░░░░░░░░░   22.90 %
-textmate       0 secs          █████░░░░░░░░░░░░░░░░░░░░   19.62 %
-Bash           0 secs          ███▓░░░░░░░░░░░░░░░░░░░░░   14.60 %
-Groovy         0 secs          ██░░░░░░░░░░░░░░░░░░░░░░░   07.55 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka--> 
