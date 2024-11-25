@@ -58,11 +58,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-JSON           6 mins          ███████████░░░░░░░░░░░░░░   43.42 %
-Terraform      4 mins          ████████░░░░░░░░░░░░░░░░░   32.11 %
-Groovy         2 mins          █████░░░░░░░░░░░░░░░░░░░░   19.55 %
-Jinja2         0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.81 %
-Text           0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.77 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka--> 
